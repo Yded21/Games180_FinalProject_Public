@@ -1,0 +1,21 @@
+{
+  "CurrentHp": 120,
+  "MaxHp": 120,
+  "BaseDamage": 20,
+  "CurrentForm": 0,
+  "HasForm": false,
+  "RoomIndex": 0,
+  "Seed": 181958869,
+  "AcquiredUpgrades": [],
+  "RoomMapBases": [
+    "start_fixed",
+    "encounterA_1_open",
+    "encounterB_2_trapcross",
+    "form_fixed",
+    "encounterC_3_sidepockets",
+    "event_shrine",
+    "encounterD_3_doubletank",
+    "rest_variant_1",
+    "boss_variant_1"
+  ]
+}

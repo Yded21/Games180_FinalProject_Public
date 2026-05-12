@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/eddyzhang/Games180_FinalProject_EddyZhang/Content/UIFont.spritefont</SourceFile>
+  <SourceTime>2026-05-12T01:52:09.4420178-04:00</SourceTime>
+  <DestFile>/Users/eddyzhang/Games180_FinalProject_EddyZhang/Content/bin/DesktopGL/Content/UIFont.xnb</DestFile>
+  <DestTime>2026-05-12T02:01:51.65046-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-10-20T10:25:32-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-10-20T10:25:32-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
